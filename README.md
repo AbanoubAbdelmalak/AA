@@ -76,7 +76,8 @@
 
 # GetDeliveryAddress
 ## The Order tracker request the order agent for the delivery address
-### "delivery_address"<br/>
+### "delivery_address"
+<br />
 
 # DeliveryAddress
 ## The order informs the order tracker about the delivery address
