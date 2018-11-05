@@ -1,12 +1,12 @@
 # OrderMessage
 ## Customer requests a order processor of a bakery for some products to be delivered at specific time
 ### "<ddd.hh\> product_name:price; product_name:price; product_name:price"
-<br />
+<br/>
 
 # Status
 ## The order processor acknowledges the receipt of the order form the customer
 ###  "order_(received/declined)"
-<br />
+<br/>
 
 # requestForPendingOrders
 ## The production manager requests todays orders from the order processor
