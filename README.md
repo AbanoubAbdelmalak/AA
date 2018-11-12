@@ -8,6 +8,5 @@
 * For the transportation their could be a graph for all the bakeries, customers and trucks updating their positions periodically.
 
 # Potential libraries and frameworks
-
 * __Abstract Window Toolkit(AWT)__
 	* The most primitive 		
