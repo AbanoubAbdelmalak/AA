@@ -7,5 +7,7 @@
 ### Transportation
 * For the transportation their could be a graph for all the bakeries, customers and trucks updating their positions periodically.
 
-### Implementation
- 
+### Potential libraries and frameworks
+
+* __AWT__
+	* ashdj		
